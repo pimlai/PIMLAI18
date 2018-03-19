@@ -8,7 +8,6 @@
 <div><a href="#page-top"> PiMLAI'18 </a></div>
 <div>
 <ul>
-<li><br /> </li>
 <li><a href="#about">Scope</a></li>
 <li><a href="#speakers">Invited Speakers</a></li>
 <li><a href="#schedule">Schedule</a></li>
@@ -36,7 +35,7 @@
 <div>
 <h2>Invited Speakers</h2>
 <ul>
-<li>�lfar Erlingsson (Google)</li>
+<li>Úlfar Erlingsson (Google)</li>
 <li>Pınar Yolum (Utrecht)</li>
 </ul>
 </div>
@@ -70,6 +69,11 @@
 <tr>
 <td>11.00</td>
 <td><a href="#tabs3" data-toggle="collapse"> - </a></td>
+</tr>
+<tr>
+<tr>
+<td>11.30</td>
+<td><a href="#tabs1" data-toggle="collapse"> - </a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -130,6 +134,24 @@
 <p><strong>Abstract submission</strong>: May 14, 2018 (11pm59 CET) <br /> <strong>Notification of acceptance</strong>: May 29, 2018 <br /> <strong>Workshop</strong>: July 14, 2018</p>
 <p>We invite submissions of recent work on privacy in machine learning and artificial intelligence, both theory and application-oriented. Similarly to how ICML, IJCAI, AAMAS, and other FAIM workshops are organized, all accepted abstracts will be part of a poster session held during the workshop. Additionally, the PC will select a subset of the abstracts for short oral presentations. At least one author of each accepted abstract is expected to represent it at the workshop.</p>
 <p>Submissions in the form of extended abstracts must be <strong>at most 4 pages long</strong> (not including references) and <strong>adhere to the <a href="https://media.nips.cc/Conferences/ICML2018/Styles/icml2018_style.tar.gz"> ICML format</a></strong>. We do accept submissions of work recently published or currently under review. Submissions do not need to be anonymized. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have their work published on the workshop webpage.</p>
+<p>Solicited topics include, but are not limited to:</p>
+<ul>
+<li><p>Differential privacy: theory, applications, and implementations</p>
+<li><p>Privacy in internet of things and multi-agent systems</p>
+<li><p>Privacy-preserving machine learning</p>
+<li><p>Trade-offs between privacy and utility</p>
+<li><p>Programming languages for privacy-preserving data analysis</p>
+<li><p>Statistical notions of privacy, including relaxations of differential privacy</p>
+<li><p>Empirical and theoretical comparisons between different notions of privacy</p>
+<li><p>Privacy attacks</p>
+<li><p>Policy-making aspects of data privacy</p>
+<li><p>Secure multi-party computation techniques for machine learning</p>
+<li><p>Learning on encrypted data, homomorphic encryption</p>
+<li><p>Distributed privacy-preserving algorithms</p>
+<li><p>Normative approaches to privacy in AI</p>
+<li><p>Privacy in autonomous systems</p>
+<li><p>Online social networks privacy</p>
+</ul>
 </div>
 </div>
 <section></section>
