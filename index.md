@@ -1,8 +1,4 @@
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <nav></nav>
 <div>
 <div><a href="#page-top"> PiMLAI'18 </a></div>
@@ -17,12 +13,6 @@
 </ul>
 </div>
 <header></header>
-<div>
-<div>
-<div>
-</div>
-</div>
-</div>
 <section></section>
 <div>
 <div>
@@ -35,7 +25,7 @@
 <div>
 <h2>Invited Speakers</h2>
 <ul>
-<li>Úlfar Erlingsson (Google)</li>
+<li>&Uacute;lfar Erlingsson (Google)</li>
 <li>Pınar Yolum (Utrecht)</li>
 </ul>
 </div>
@@ -59,8 +49,6 @@
 <td><a href="#tabs4" data-toggle="collapse"> - </a></td>
 </tr>
 <tr>
-<td colspan="2">
-</td>
 </tr>
 <tr>
 <td>10.30</td>
@@ -71,8 +59,6 @@
 <td><a href="#tabs3" data-toggle="collapse"> - </a></td>
 </tr>
 <tr>
-<td colspan="2">
-</td>
 </tr>
 <tr>
 <td>12.15</td>
@@ -107,8 +93,6 @@
 <div>
 <div>
 <h2>Accepted Papers</h2>
-<div>
-</div>
 </div>
 </div>
 <section></section>
@@ -131,21 +115,51 @@
 <p>Submissions in the form of extended abstracts must be <strong>at most 4 pages long</strong> (not including references) and <strong>adhere to the <a href="https://media.nips.cc/Conferences/ICML2018/Styles/icml2018_style.tar.gz"> ICML format</a></strong>. We do accept submissions of work recently published or currently under review. Submissions do not need to be anonymized. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have their work published on the workshop webpage.</p>
 <p>Solicited topics include, but are not limited to:</p>
 <ul>
-<li><p>Differential privacy: theory, applications, and implementations</p>
-<li><p>Privacy in internet of things and multi-agent systems</p>
-<li><p>Privacy-preserving machine learning</p>
-<li><p>Trade-offs between privacy and utility</p>
-<li><p>Programming languages for privacy-preserving data analysis</p>
-<li><p>Statistical notions of privacy, including relaxations of differential privacy</p>
-<li><p>Empirical and theoretical comparisons between different notions of privacy</p>
-<li><p>Privacy attacks</p>
-<li><p>Policy-making aspects of data privacy</p>
-<li><p>Secure multi-party computation techniques for machine learning</p>
-<li><p>Learning on encrypted data, homomorphic encryption</p>
-<li><p>Distributed privacy-preserving algorithms</p>
-<li><p>Normative approaches to privacy in AI</p>
-<li><p>Privacy in autonomous systems</p>
-<li><p>Online social networks privacy</p>
+<li>
+<p>Differential privacy: theory, applications, and implementations</p>
+</li>
+<li>
+<p>Privacy in internet of things and multi-agent systems</p>
+</li>
+<li>
+<p>Privacy-preserving machine learning</p>
+</li>
+<li>
+<p>Trade-offs between privacy and utility</p>
+</li>
+<li>
+<p>Programming languages for privacy-preserving data analysis</p>
+</li>
+<li>
+<p>Statistical notions of privacy, including relaxations of differential privacy</p>
+</li>
+<li>
+<p>Empirical and theoretical comparisons between different notions of privacy</p>
+</li>
+<li>
+<p>Privacy attacks</p>
+</li>
+<li>
+<p>Policy-making aspects of data privacy</p>
+</li>
+<li>
+<p>Secure multi-party computation techniques for machine learning</p>
+</li>
+<li>
+<p>Learning on encrypted data, homomorphic encryption</p>
+</li>
+<li>
+<p>Distributed privacy-preserving algorithms</p>
+</li>
+<li>
+<p>Normative approaches to privacy in AI</p>
+</li>
+<li>
+<p>Privacy in autonomous systems</p>
+</li>
+<li>
+<p>Online social networks privacy</p>
+</li>
 </ul>
 </div>
 </div>
@@ -167,10 +181,10 @@
 <h3>Program Committee</h3>
 <br />
 <h3>Sponsors</h3>
-<br /> <footer></footer>
+<br /><footer></footer>
 <div>
 <p>Contact us: <a href="mailto:pimlai18@easychair.org">pimlai18@easychair.org</a></p>
-<br /> </div>
- </div>
+</div>
+</div>
 </div>
 </div>
