@@ -15,8 +15,6 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --><!-- WARNING: Respond.js doesn't work if you view the page via file:// --><!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -49,11 +47,6 @@ href="#page-top"> <span class="light">PiMLAI'18</span> </a> </div>
 <div class="container">
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
-<h1 class="brand-heading">Privacy in Machine Learning and Artificial
-Intelligence</h1>
-<p class="intro-text">FAIM 2018 Workshop <br>
-Stockholm, July 14 </p>
-<p class="location-text"> Stockholm�smassan Stockholm
 <br>
 </p>
 </div>
