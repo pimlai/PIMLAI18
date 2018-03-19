@@ -2,4 +2,5 @@ title: Privacy in Machine Learning and Artificial Intelligence
 description: FAIM 2018 Workshop | Stockholm, July 14 | Stockholmmässan Stockholm
 google_analytics:
 theme: jekyll-theme-slate
-is_project_page: false
+github:
+  is_project_page: false
