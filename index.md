@@ -71,11 +71,6 @@
 <td><a href="#tabs3" data-toggle="collapse"> - </a></td>
 </tr>
 <tr>
-<tr>
-<td>11.30</td>
-<td><a href="#tabs1" data-toggle="collapse"> - </a></td>
-</tr>
-<tr>
 <td colspan="2">
 </td>
 </tr>
