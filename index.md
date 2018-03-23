@@ -4,7 +4,8 @@
 <div><a href="#page-top"> PiMLAI'18 </a></div>
 <div>
 <ul>
-<li><a href="#about">Scope</a></li>
+<a class="page-scroll" href="#about">Scope</a>
+<!--<li><a href="#about">Scope</a></li>-->
 <li><a href="#speakers">Invited Speakers</a></li>
 <li><a href="#schedule">Schedule</a></li>
 <li><a href="#papers">Accepted Papers</a></li>
@@ -101,7 +102,7 @@
 <h2>Travel Grants</h2>
 <p>Grants are available to help partially cover the travel expenses of students and researchers attending the workshop. Each grant will reimburse registration costs and travel expenses up to a maximum of 700 euros. We might be unable to provide awards to all applicants, in which case awards will be determined by the organizers based on the application material.</p>
 <p>Applications are due on <strong>June 4, 2018</strong>.</p>
-<p>An application for a travel award will consist of a single PDF file with a justification of financial needs, a summary of research interests, and a brief discussion of why the applicant will benefit from participating in the workshop. Please send your applications to <a>.@.</a> with the subject title <em>"PiMLAI Travel Grant"</em>.</p>
+<p>An application for a travel award will consist of a single PDF file with a justification of financial needs, a summary of research interests, and a brief discussion of why the applicant will benefit from participating in the workshop. Please send your applications to <a>pimlai18@easychair.org</a> with the subject title <em>"PiMLAI Travel Grant"</em>.</p>
 <p><em>Sponsored by:</em> <a href="https://www.amazon.com/"> <img src="img/*.png" alt="" width="180" /> </a></p>
 </div>
 </div>
