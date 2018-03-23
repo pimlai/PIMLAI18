@@ -25,9 +25,6 @@
     <section id="speakers" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-<!-- <section></section>
-<div>
-<div>-->
 <h2>Invited Speakers</h2>
 <ul>
 <li>&Uacute;lfar Erlingsson (Google)</li>
@@ -39,9 +36,6 @@
     <section id="schedule" class="container content-section text-center">
         <div class="row">
             <div class="col-sm-8 col-sm-offset-2">
-<!--<section></section>
-<div>
-<div>-->
 <h2>Schedule</h2>
 <table>
 <tbody>
@@ -102,9 +96,6 @@
     <section id="papers" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-<!--<section></section>
-<div>
-<div>-->
 <h2>Accepted Papers</h2>
 </div>
 </div>
@@ -122,9 +113,6 @@
     <section id="grants" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-<!--<section></section>
-<div>
-<div>-->
 <h2>Call For Papers &amp; Important Dates</h2>
 <a href="cfp-pimlai18.txt">Download Full CFP</a> <a href="https://easychair.org/conferences/?conf=pimlai18">Submit Your Abstract</a> <br /> <br /> <br />
 <p><strong>Abstract submission</strong>: May 14, 2018 (11pm59 CET) <br /> <strong>Notification of acceptance</strong>: May 29, 2018 <br /> <strong>Workshop</strong>: July 14, 2018</p>
@@ -184,9 +172,6 @@
     <section id="organizers" class="content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-<!-- <section></section>
-<div>
-<div>-->
 <h2>Organization</h2>
 <br/>
 <h3>Workshop organizers</h3>
