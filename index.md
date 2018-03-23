@@ -14,9 +14,13 @@
 </ul>
 </div>
 <header></header>
-<section></section>
+<!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+<!--<section></section>
 <div>
-<div>
+<div>-->
 <h2>Scope</h2>
 <p>The one-day workshop focuses on the technical aspects of privacy research with invited and contributed talks by distinguished researchers in the area. We will conclude the workshop with a panel discussion about ethical and regulatory aspects. The programme of the workshop will emphasize the diversity of points of view on the problem of privacy, exemplified by the approaches pursued by specific sub-communities scattered across the different meetings comprising the Federated Artificial Intelligence Meeting. We will also ensure there is ample time for discussions that encourage networking between researches from these different sub-communities, which should result in mutually beneficial new long-term collaborations.</p>
 </div>
