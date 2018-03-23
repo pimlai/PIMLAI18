@@ -118,9 +118,13 @@
 <p><em>Sponsored by:</em> <a href="https://www.amazon.com/"> <img src="img/*.png" alt="" width="180" /> </a></p>
 </div>
 </div>
-<section></section>
+    <!-- Call for travel grants -->
+    <section id="grants" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+<!--<section></section>
 <div>
-<div>
+<div>-->
 <h2>Call For Papers &amp; Important Dates</h2>
 <a href="cfp-pimlai18.txt">Download Full CFP</a> <a href="https://easychair.org/conferences/?conf=pimlai18">Submit Your Abstract</a> <br /> <br /> <br />
 <p><strong>Abstract submission</strong>: May 14, 2018 (11pm59 CET) <br /> <strong>Notification of acceptance</strong>: May 29, 2018 <br /> <strong>Workshop</strong>: July 14, 2018</p>
