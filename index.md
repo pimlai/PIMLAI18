@@ -4,8 +4,8 @@
 <div><a href="#page-top"> PiMLAI'18 </a></div>
 <div>
 <ul>
-<a class="page-scroll" href="#about">Scope</a>
-<!--<li><a href="#about">Scope</a></li>-->
+<!--<a class="page-scroll" href="#about">Scope</a>-->
+<li><a href="#about">Scope</a></li>
 <li><a href="#speakers">Invited Speakers</a></li>
 <li><a href="#schedule">Schedule</a></li>
 <li><a href="#papers">Accepted Papers</a></li>
