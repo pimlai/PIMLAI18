@@ -1,4 +1,3 @@
-
 <nav></nav>
 <div>
 <div><a href="#page-top"> PiMLAI'18 </a></div>
@@ -13,18 +12,16 @@
 </ul>
 </div>
 <header></header>
-<!-- About Section -->
-    <section id="about" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+<section>
+<div>
+<div>
 <h2>Scope</h2>
 <p>The one-day workshop focuses on the technical aspects of privacy research with invited and contributed talks by distinguished researchers in the area. We will conclude the workshop with a panel discussion about ethical and regulatory aspects. The programme of the workshop will emphasize the diversity of points of view on the problem of privacy, exemplified by the approaches pursued by specific sub-communities scattered across the different meetings comprising the Federated Artificial Intelligence Meeting. We will also ensure there is ample time for discussions that encourage networking between researches from these different sub-communities, which should result in mutually beneficial new long-term collaborations.</p>
 </div>
 </div>
-    <!-- Speakers Section -->
-    <section id="speakers" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+<section>
+<div>
+<div>
 <h2>Invited Speakers</h2>
 <ul>
 <li>&Uacute;lfar Erlingsson (Google)</li>
@@ -32,10 +29,9 @@
 </ul>
 </div>
 </div>
-    <!-- Schedule Section -->
-    <section id="schedule" class="container content-section text-center">
-        <div class="row">
-            <div class="col-sm-8 col-sm-offset-2">
+<section>
+<div>
+<div>
 <h2>Schedule</h2>
 <table>
 <tbody>
@@ -52,16 +48,12 @@
 <td><a href="#tabs4" data-toggle="collapse"> - </a></td>
 </tr>
 <tr>
-</tr>
-<tr>
 <td>10.30</td>
 <td>Coffee Break</td>
 </tr>
 <tr>
 <td>11.00</td>
 <td><a href="#tabs3" data-toggle="collapse"> - </a></td>
-</tr>
-<tr>
 </tr>
 <tr>
 <td>12.15</td>
@@ -92,10 +84,9 @@
 </table>
 </div>
 </div>
-    <!-- Accepted Papers -->
-    <section id="papers" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+<section>
+<div>
+<div>
 <h2>Accepted Papers</h2>
 </div>
 </div>
@@ -109,10 +100,9 @@
 <p><em>Sponsored by:</em> <a href="https://www.amazon.com/"> <img src="img/*.png" alt="" width="180" /> </a></p>
 </div>
 </div>
-    <!-- Call for travel grants -->
-    <section id="grants" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+<section>
+<div>
+<div>
 <h2>Call For Papers &amp; Important Dates</h2>
 <a href="cfp-pimlai18.txt">Download Full CFP</a> <a href="https://easychair.org/conferences/?conf=pimlai18">Submit Your Abstract</a> <br /> <br /> <br />
 <p><strong>Abstract submission</strong>: May 14, 2018 (11pm59 CET) <br /> <strong>Notification of acceptance</strong>: May 29, 2018 <br /> <strong>Workshop</strong>: July 14, 2018</p>
@@ -168,12 +158,11 @@
 </ul>
 </div>
 </div>
-    <!-- Organizers Section -->
-    <section id="organizers" class="content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+<section>
+<div>
+<div>
 <h2>Organization</h2>
-<br/>
+<br />
 <h3>Workshop organizers</h3>
 <ul>
 <li>Borja Balle (Amazon Research Cambridge)</li>
@@ -193,4 +182,9 @@
 </div>
 </div>
 </div>
-</div>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
