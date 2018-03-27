@@ -106,7 +106,7 @@
 <p>Grants are available to help partially cover the travel expenses of students and researchers attending the workshop. Each grant will reimburse registration costs and travel expenses up to a maximum of 700 euros. We might be unable to provide awards to all applicants, in which case awards will be determined by the organizers based on the application material.</p>
 <p>Applications are due on <strong>June 4, 2018</strong>.</p>
 <p>An application for a travel award will consist of a single PDF file with a justification of financial needs, a summary of research interests, and a brief discussion of why the applicant will benefit from participating in the workshop. Please send your applications to <a>pimlai18@easychair.org</a> with the subject title <em>"PiMLAI Travel Grant"</em>.</p>
-<p><em>Sponsored by:</em> <a href="https://www.amazon.com/"> <img src="img/*.png" alt="" width="180" /> </a></p>
+<p><em>Sponsored by:</em> <a href="https://www.amazon.com/"> <img src="img/Amazonlogo.png" alt="" width="180" /> </a></p>
 </div>
 </div>
     <!-- Call for travel grants -->
@@ -117,7 +117,7 @@
 <a href="cfp-pimlai18.txt">Download Full CFP</a> <a href="https://easychair.org/conferences/?conf=pimlai18">Submit Your Abstract</a> <br /> <br /> <br />
 <p><strong>Abstract submission</strong>: May 14, 2018 (11pm59 CET) <br /> <strong>Notification of acceptance</strong>: May 29, 2018 <br /> <strong>Workshop</strong>: July 14, 2018</p>
 <p>We invite submissions of recent work on privacy in machine learning and artificial intelligence, both theory and application-oriented. Similarly to how ICML, IJCAI, AAMAS, and other FAIM workshops are organized, all accepted abstracts will be part of a poster session held during the workshop. Additionally, the PC will select a subset of the abstracts for short oral presentations. At least one author of each accepted abstract is expected to represent it at the workshop.</p>
-<p>Submissions in the form of extended abstracts must be <strong>at most 4 pages long</strong> (not including references) and <strong>adhere to the <a href="https://media.nips.cc/Conferences/ICML2018/Styles/icml2018_style.tar.gz"> ICML format</a></strong>. We do accept submissions of work recently published or currently under review. Submissions do not need to be anonymized. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have their work published on the workshop webpage.</p>
+<p>Submissions in the form of extended abstracts must be <strong>at most 2 pages long</strong> (not including references) and <strong>adhere to the <a href="https://media.nips.cc/Conferences/ICML2018/Styles/icml2018_style.tar.gz"> ICML format</a></strong>. We do accept submissions of work recently published or currently under review. Submissions do not need to be anonymized. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have their work published on the workshop webpage.</p>
 <p>Solicited topics include, but are not limited to:</p>
 <ul>
 <li>
@@ -190,6 +190,5 @@
 <br /><footer></footer>
 <div>
 <p>Contact us: <a href="mailto:pimlai18@easychair.org">pimlai18@easychair.org</a></p>
-</div>
 </div>
 </div>
