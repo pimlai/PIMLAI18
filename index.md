@@ -179,12 +179,30 @@
 <li>Borja Balle (Amazon Research Cambridge)</li>
 <li>Antti Honkela (University of Helsinki)</li>
 <li>Kamalika Chaudhuri (UCSD CSE)</li>
-<li>Jose Such (King's College London)</li>
 <li>Beyza Ermis (Amazon Research Berlin)</li>
+<li>Jose Such (King's College London)</li>
 <li>Mijung Park (MPI Tuebingen)</li>
 </ul>
 <br />
 <h3>Program Committee</h3>
+<li>Adria Gascon (Turing Institute)</li>
+<li>Anand Sarwate (Rutgers University) </li>
+<li>Aurelien Bellet (INRIA)</li>
+<li>Carmela Troncoso (EPFL) </li>
+<li>Christos Dimitrakakis (Chalmers University) </li>
+<li>Emiliano De Cristofaro (UCL) </li>
+<li>Gaurav Misra (University of New South Wales) </li>
+<li>Joseph Geumlek (UCSD CSE) </li>
+<li>Marco Gaboardi (University of Buffalo, SUNY) </li>
+<li>Maziar Gomrokchi (McGill University) </li>
+<li>Michael Brueckner (Amazon Research Berlin) </li>
+<li>Nadin Kokciyan (King's College London) </li>
+<li>Olya Ohrimenko (Microsoft Research)</li>
+<li>Ozgur Kafali (University of Kent) </li>
+<li>Pauline Anthonysamy (Google) </li>
+<li>Peter Kairouz (Stanford University) </li>
+<li>Phillipp Schoppmann (Humboldt) </li>
+<li>Yu-Xiang Wang (Amazon AWS) </li>
 <br />
 <h3>Sponsors</h3>
 <br /><footer></footer>
