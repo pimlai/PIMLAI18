@@ -202,6 +202,7 @@
 <li>Pauline Anthonysamy (Google) </li>
 <li>Peter Kairouz (Stanford University) </li>
 <li>Phillipp Schoppmann (Humboldt) </li>
+<li>Shuang Song (UCSD CSE) </li>
 <li>Yu-Xiang Wang (Amazon AWS) </li>
 <br />
 <h3>Sponsors</h3>
