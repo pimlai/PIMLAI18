@@ -114,7 +114,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
 <h2>Call For Papers &amp; Important Dates</h2>
-<a href="cfp-pimlai18.txt">Download Full CFP</a> <a href="https://easychair.org/conferences/?conf=pimlai18">Submit Your Abstract</a> <br /> <br /> <br />
+<a href="cfp-pimlai18.rtf">Download Full CFP</a> <a href="https://easychair.org/conferences/?conf=pimlai18">Submit Your Abstract</a> <br /> <br /> <br />
 <p><strong>Abstract submission</strong>: May 14, 2018 (11pm59 CET) <br /> <strong>Notification of acceptance</strong>: May 29, 2018 <br /> <strong>Workshop</strong>: July 14, 2018</p>
 <p>We invite submissions of recent work on privacy in machine learning and artificial intelligence, both theory and application-oriented. Similarly to how ICML, IJCAI, AAMAS, and other FAIM workshops are organized, all accepted abstracts will be part of a poster session held during the workshop. Additionally, the PC will select a subset of the abstracts for short oral presentations. At least one author of each accepted abstract is expected to represent it at the workshop.</p>
 <p>Submissions in the form of extended abstracts must be <strong>at most 2 pages long</strong> (not including references) and <strong>adhere to the <a href="https://media.nips.cc/Conferences/ICML2018/Styles/icml2018_style.tar.gz"> ICML format</a></strong>. We do accept submissions of work recently published or currently under review. Submissions do not need to be anonymized. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have their work published on the workshop webpage.</p>
