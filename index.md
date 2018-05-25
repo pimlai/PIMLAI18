@@ -28,6 +28,7 @@
 <h2>Invited Speakers</h2>
 <ul>
 <li>&Uacute;lfar Erlingsson (Google)</li>
+<li>Catuscia Palamidessi (INRIA)</li>
 <li>Pınar Yolum (Utrecht)</li>
 </ul>
 </div>
