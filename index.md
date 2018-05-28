@@ -27,6 +27,7 @@
             <div class="col-lg-8 col-lg-offset-2">
 <h2>Invited Speakers</h2>
 <ul>
+<li>Catuscia Palamidessi (INRIA)</li>
 <li>&Uacute;lfar Erlingsson (Google)</li>
 <li>Pınar Yolum (Utrecht)</li>
 </ul>
