@@ -105,8 +105,6 @@
             <div id="abs1" class="panel-footer panel-paper-footer collapse">We present our collaborative trust-based system that accom- modates for different user privacy preferences in a princi- pled, transparent, certifiable manner, we present representa- tive results, and we also discuss future directions.
             </div>
         </div>
-        </div>
-        </div>
     </section>
 
 
