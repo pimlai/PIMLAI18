@@ -98,11 +98,18 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
 <h2>Accepted Papers</h2>
-</div>
-</div>
-<section></section>
-<div>
-<div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body"><span class="paper-author">Martin Bertran, Natalia Martinez, Afroditi Papadaki, Qiang Qiu, Miguel Rodrigues, Guillermo Sapiro</span>
+                        <br /><a data-toggle="collapse" href="#abs1" class="paper-title">Learning and Deciding Our Own Privacy in a Collaborative System</a>
+            </div>
+            <div id="abs1" class="panel-footer panel-paper-footer collapse">We present our collaborative trust-based system that accom- modates for different user privacy preferences in a princi- pled, transparent, certifiable manner, we present representa- tive results, and we also discuss future directions.
+            </div>
+        </div>
+        </div>
+        </div>
+    </section>
+
+
 <h2>Travel Grants</h2>
 <p>Grants are available to help partially cover the travel expenses of students and researchers attending the workshop. Each grant will reimburse registration costs and travel expenses up to a maximum of 700 euros. We might be unable to provide awards to all applicants, in which case awards will be determined by the organizers based on the application material.</p>
 <p>Applications are due on <strong>June 4, 2018</strong>.</p>
