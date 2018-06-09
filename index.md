@@ -46,65 +46,255 @@
 </tr>
 <tr>
 <td>9.00</td>
-<td><a href="#tabs2" data-toggle="collapse"> - </a></td>
+<td><a href="#tabs1" data-toggle="collapse"> Invited talk: Pınar Yolum</a></td>
 </tr>
 <tr>
-<td>09.45</td>
-<td><a href="#tabs4" data-toggle="collapse"> - </a></td>
+<td>09.50</td>
+<td><a href="#tabs2" data-toggle="collapse"> Contributed Talk </a></td>
 </tr>
 <tr>
+<td>10.10</td>
+<td><a href="#tabs3" data-toggle="collapse"> Contributed Talk </a></td>
 </tr>
 <tr>
 <td>10.30</td>
-<td>Coffee Break</td>
+<td>Coffee Break + Poster Session</td>
 </tr>
 <tr>
 <td>11.00</td>
-<td><a href="#tabs3" data-toggle="collapse"> - </a></td>
+<td>Poster Spotlights </td>
 </tr>
 <tr>
+<td>12.00</td>
+<td>Lunch break + Poster Session</td>
 </tr>
 <tr>
-<td>12.15</td>
-<td>Poster Spotlights</td>
+<td>13.30</td>
+<td><a href="#tabs4" data-toggle="collapse"> Invited Talk </a></td>
 </tr>
 <tr>
-<td>13.00</td>
-<td>Lunch Break</td>
-</tr>
-<tr>
-<td>15.00</td>
-<td>Coffee Break</td>
+<td>14.20</td>
+<td>Contributed Talks</td>
 </tr>
 <tr>
 <td>15.30</td>
-<td>Poster Session</td>
+<td>Coffee Break + Poster Session</td>
 </tr>
 <tr>
-<td colspan="2">
-<div>TBD</div>
-</td>
+<td>16.00</td>
+<td><a href="#tabs3" data-toggle="collapse"> Invited Talk </a></td>
 </tr>
 <tr>
-<td>18.00</td>
+<td>16.50</td>
+<td>Contributed Talk + Panel</td>
+</tr>
+<tr>
+<td>17.45</td>
 <td>Wrap Up</td>
 </tr>
 </tbody>
 </table>
 </div>
 </div>
-    <!-- Accepted Papers -->
-    <section id="papers" class="container content-section text-center">
+    <section class="container content-section text-center" id="papers">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-<h2>Accepted Papers</h2>
+                <h2>Accepted Papers</h2>
                 <div class="panel panel-default panel-paper">
-                    <div class="panel-body panel-paper-body"><span class="paper-author">Martin Bertran, Natalia Martinez, Afroditi Papadaki, Qiang Qiu, Miguel Rodrigues, Guillermo Sapiro</span>
-                        <br /><a data-toggle="collapse" href="#abs1" class="paper-title">Learning and Deciding Our Own Privacy in a Collaborative System</a>
-            </div>
-            <div id="abs1" class="panel-footer panel-paper-footer collapse">We present our collaborative trust-based system that accom- modates for different user privacy preferences in a princi- pled, transparent, certifiable manner, we present representa- tive results, and we also discuss future directions.
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Martin Bertran, Natalia Martinez, Afroditi Papadaki, Qiang Qiu, Miguel Rodrigues, Guillermo Sapiro</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Learning and Deciding Our Own Privacy in a Collaborative System</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Jayadev Acharya, Ziteng Sun, Huanyu Zhang</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Hadamard Response: Sample Optimal Distribution Estimation in Linear Time with Little Communication</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Ahmed Salem, Yang Zhang, Mathias Humbert, Pascal Berrang, Mario Fritz, Michael Backes</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Revisiting Membership Inference Attacks Against Machine Learning Models</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Seda Gurses, Rebekah Overdorf, Ero Balsa</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">POTs: The revolution will not be optimized?</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Abdurrahman Can Kurtan, Pınar Yolum</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">PELTE: Privacy Estimation of Images from Tags</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Maria-Florina Balcan, Travis Dick, Ellen Vitercik</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Dispersion for Private Optimization of Piecewise Lipschitz Functions</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Ryan Mckenna, Daniel Sheldon, Gerome Miklau</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Efficiently Estimating Query Answers from Differentially Private Measurements</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Amanda Prorok</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Privacy-Preserving Mobility-on-Demand: Exploiting Vehicle Redundancy to Redeem Performance</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Phillipp Schoppmann, Hendrik Borchert, Bjorn Scheuermann</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Distributed Linear Regression with Differential Privacy</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Sam Leroux, Tim Verbelen, Pieter Simoens, Bart Dhoedt</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Privacy Aware Offloading of Deep Neural Networks</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Moran Feldman, Rica Gonen</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Removal and Threshold Pricing: Truthful Two-sided Markets with Multi-dimensional Participants</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Adria Gascon, Borja Balle, Phillipp Schoppman</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Private Nearest Neighbors Classification in Federated Databases</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Joonas Jalko, Antti Honkela, Samuel Kaski</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Privacy-aware data sharing</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Alice Coucke, Alaa Saade, Joseph Dureau</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Snips Voice Platform: an embedded and cloud-independent Spoken Language Understanding system for private-by-design voice interfaces</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Jamie Hayes, Luca Melis, George Danezis, Emiliano De Cristofaro</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">LOGAN: Membership Inference Attacks Against Generative Models</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Nurdan Kuru, Sinan Yildirim, S. İlker Birbil</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">A Differentially Private Stochastic Gradient Descent Algorithm with Smoothing</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Generative Adversarial Privacy</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Zhenyu Wu, Zhangyang Wang, Zhaowen Wang, Hailin Jin</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Towards Privacy-Preserving Visual Recognition via Adversarial Training</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Aristide Tossou, Christos Dimitrakakis</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">On The Differential Privacy of Thompson Sampling With Gaussian Prior</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Vasyl Pihur, Aleksandra Korolova, Frederick Liu, Subhash Sankuratripati, Moti Yung, Dachuan Huang, Ruogu Zeng</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Differentially-private "Draw and Discard" Machine Learning</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Garrett Bernstein, Daniel Sheldon</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Differentially Private Bayesian Inference for Exponential Families</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Raman Arora, Vladimir Braverman, Jalaj Upadhyay</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Differentially Private Robust PCA</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Aaron Schein, Zhiwei Steven Wu, Alexandra Schofield, Mingyuan Zhou, Hanna Wallach</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Locally Private Bayesian Inference for Count Models</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Eleftheria Makri, Dragos Rotaru, Nigel Smart, Frederik Vercauteren</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">EPIC: Efficient Private Image Classification (or: Learning from the Masters)</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Seb Farquhar, Yarin Gal</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Differentially private continual learning</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Niki Kilbertus, Adria Gascon, Matt Kusner, Michael Veale, Krishna Gummadi, Adrian Weller</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Blind Justice: Fairness with Encrypted Sensitive Attributes</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Staal Vinterbo</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">A simple algorithm for estimating distribution parameters from interactively queried randomized bits</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Amartya Sanyal, Matt Kusner, Adria Gascon, Varun Kanade</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Encrypted Prediction as a Service</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Teppo Niinimaki, Mikko Heikkila, Samuel Kaski, Antti Honkela</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Deep Transfer Learning of Representations for Differentially Private Learning</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Nicoletta Fornara</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Using Semantic Web Technologies and Production Rules for Checking Compliance with Privacy Policies</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Matthias Matousek, Christoph Bosch, Frank Kargl</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Privacy-Preserving Decision Trees</a>
+                    </div>
+                </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Kyle Fritchman, Rafael Dowsley, Tyler Hughes, Martine De Cock, Anderson Nascimento, Ankur Teredesai</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs1">Privacy-Preserving Scoring of Tree Ensembles: A Novel Framework for AI in Healthcare</a>
+                    </div>
+                </div>
             </div>
         </div>
+    </section>
 
 
 <h2>Travel Grants</h2>
