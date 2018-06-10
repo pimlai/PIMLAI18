@@ -100,8 +100,16 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Accepted Papers</h2>
-                <div class="panel panel-default">
-                    <div class="panel-body">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">Panel Heading</h3>
+    </div>
+    <div class="panel-body">
+      Panel content
+    </div>
+  </div>          
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
                         <span class="paper-author">Martin Bertran, Natalia Martinez, Afroditi Papadaki, Qiang Qiu, Miguel Rodrigues, Guillermo Sapiro</span><br>
                         <a class="paper-title" data-toggle="collapse" href="#abs1">Learning and Deciding Our Own Privacy in a Collaborative System</a>
                     </div>
