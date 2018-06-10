@@ -104,9 +104,7 @@
     <div class="panel-heading">
       <h3 class="panel-title">Panel Heading</h3>
     </div>
-    <div class="panel-body">
-      Panel content
-    </div>
+    <div class="panel-body">Panel content </div>
   </div>          
                 <div class="panel panel-default panel-paper">
                     <div class="panel-body panel-paper-body">
