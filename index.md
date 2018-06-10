@@ -104,8 +104,7 @@
                     <div class="panel-body panel-paper-body">
                         <span class="paper-author">Martin Bertran, Natalia Martinez, Afroditi Papadaki, Qiang Qiu, Miguel Rodrigues, Guillermo Sapiro</span><br>
                         <a class="paper-title" data-toggle="collapse" href="#abs1">Learning and Deciding Our Own Privacy in a Collaborative System</a>
-                        <div id="abs1" class="panel-footer panel-paper-footer collapse">We present our collaborative trust-based system that accommodates for different user privacy preferences in a principled, transparent, certifiable manner, we present representative results, and we also discuss future directions. </div>                        
-                    </div>
+                    </div>                        
                 </div>
                 <div class="panel panel-default panel-paper">
                     <div class="panel-body panel-paper-body">
