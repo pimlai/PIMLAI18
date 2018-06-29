@@ -41,55 +41,67 @@
 <table>
 <tbody>
 <tr>
-<td>8.45</td>
+<td>8.15</td>
 <td>Welcome and Introduction</td>
 </tr>
 <tr>
-<td>9.00</td>
-<td><a href="#tabs1" data-toggle="collapse"> Invited talk: Pınar Yolum</a></td>
+<td>8.30</td>
+<td><a href="#tabs1" data-toggle="collapse">Invited talk: Pınar Yolum</a></td>
 </tr>
 <tr>
-<td>09.50</td>
-<td><a href="#tabs2" data-toggle="collapse"> Contributed Talk </a></td>
+<td>09.20</td>
+<td><a href="#tabs2" data-toggle="collapse">Contributed Talk</a></td>
 </tr>
 <tr>
-<td>10.10</td>
-<td><a href="#tabs3" data-toggle="collapse"> Contributed Talk </a></td>
+<td>09.40</td>
+<td><a href="#tabs3" data-toggle="collapse">Contributed Talk</a></td>
+</tr>
+<tr>
+<td>10.00</td>
+<td>Coffee Break + Poster Setup</td>
 </tr>
 <tr>
 <td>10.30</td>
-<td>Coffee Break + Poster Session</td>
+<td><a href="#tabs4" data-toggle="collapse">Contributed Talk</a></td>
 </tr>
 <tr>
-<td>11.00</td>
-<td>Poster Spotlights </td>
+<td>10.50</td>
+<td>Poster Spotlights</td>
 </tr>
 <tr>
-<td>12.00</td>
-<td>Lunch break + Poster Session</td>
+<td>11.10</td>
+<td>Poster Session</td>
 </tr>
 <tr>
-<td>13.30</td>
-<td><a href="#tabs4" data-toggle="collapse"> Invited Talk </a></td>
+<td>12.30</td>
+<td>Lunch break</td>
 </tr>
 <tr>
-<td>14.20</td>
-<td>Contributed Talks</td>
+<td>14.00</td>
+<td><a href="#tabs5" data-toggle="collapse">Invited Talk: Catuscia Palamidessi</a></td>
+</tr>
+<tr>
+<td>14.50</td>
+<td><a href="#tabs6" data-toggle="collapse">Contributed Talk</a></td>
+</tr>
+<tr>
+<td>15.10</td>
+<td><a href="#tabs7" data-toggle="collapse">Contributed Talk</a></td>
 </tr>
 <tr>
 <td>15.30</td>
-<td>Coffee Break + Poster Session</td>
+<td>Coffee Break</td>
 </tr>
 <tr>
 <td>16.00</td>
-<td><a href="#tabs3" data-toggle="collapse"> Invited Talk </a></td>
+<td><a href="#tabs8" data-toggle="collapse">Invited Talk: &Uacute;lfar Erlingsson</a></td>
 </tr>
 <tr>
 <td>16.50</td>
-<td>Contributed Talk + Panel</td>
+<td><a href="#tabs9" data-toggle="collapse">Contributed Talk</a></td>
 </tr>
 <tr>
-<td>17.45</td>
+<td>17.15</td>
 <td>Wrap Up</td>
 </tr>
 </tbody>
