@@ -50,11 +50,11 @@
 </tr>
 <tr>
 <td>09.20</td>
-<td><a href="#tabs2" data-toggle="collapse">Contributed Talk</a></td>
+<td><a href="#tabs2" data-toggle="collapse">Contributed Talk: Learning and Deciding Our Own Privacy in a Collaborative System (Martin Bertran, Natalia Martinez, Afroditi Papadaki, Qiang Qiu, Miguel Rodrigues and Guillermo Sapiro)</a></td>
 </tr>
 <tr>
 <td>09.40</td>
-<td><a href="#tabs3" data-toggle="collapse">Contributed Talk</a></td>
+<td><a href="#tabs3" data-toggle="collapse">Contributed Talk: Privacy-Preserving Mobility-on-Demand: Exploiting Vehicle Redundancy to Redeem Performance (Amanda Prorok)</a></td>
 </tr>
 <tr>
 <td>10.00</td>
@@ -62,7 +62,7 @@
 </tr>
 <tr>
 <td>10.30</td>
-<td><a href="#tabs4" data-toggle="collapse">Contributed Talk</a></td>
+<td><a href="#tabs4" data-toggle="collapse">Contributed Talk: Privacy Aware Offloading of Deep Neural Networks (Sam Leroux, Tim Verbelen, Pieter Simoens and Bart Dhoedt)</a></td>
 </tr>
 <tr>
 <td>10.50</td>
@@ -82,11 +82,11 @@
 </tr>
 <tr>
 <td>14.50</td>
-<td><a href="#tabs6" data-toggle="collapse">Contributed Talk</a></td>
+<td><a href="#tabs6" data-toggle="collapse">Contributed Talk: Generative Adversarial Privacy (Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar and Ram Rajagopal)</a></td>
 </tr>
 <tr>
 <td>15.10</td>
-<td><a href="#tabs7" data-toggle="collapse">Contributed Talk</a></td>
+<td><a href="#tabs7" data-toggle="collapse">Contributed Talk: Hadamard Response: Sample Optimal Distribution Estimation in Linear Time with Little Communication (Jayadev Acharya, Ziteng Sun and Huanyu Zhang)</a></td>
 </tr>
 <tr>
 <td>15.30</td>
@@ -98,7 +98,7 @@
 </tr>
 <tr>
 <td>16.50</td>
-<td><a href="#tabs9" data-toggle="collapse">Contributed Talk</a></td>
+<td><a href="#tabs9" data-toggle="collapse">Contributed Talk: Efficiently Estimating Query Answers from Differentially Private Measurements (Ryan Mckenna, Daniel Sheldon and Gerome Miklau)</a></td>
 </tr>
 <tr>
 <td>17.15</td>
