@@ -305,6 +305,12 @@
                         <a class="paper-title" data-toggle="collapse" href="#abs32">Privacy-Preserving Scoring of Tree Ensembles: A Novel Framework for AI in Healthcare</a>
                     </div>
                 </div>
+                <div class="panel panel-default panel-paper">
+                    <div class="panel-body panel-paper-body">
+                        <span class="paper-author">Edward Chou, Josh Beal, Albert Haque, Li Fei-Fei</span><br>
+                        <a class="paper-title" data-toggle="collapse" href="#abs32">Delegated Feature Extraction for Encrypted Inference</a>
+                    </div>
+                </div>                
             </div>
         </div>
     </section>
