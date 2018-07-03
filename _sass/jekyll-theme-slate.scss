@@ -251,6 +251,69 @@ form {
   padding: 20px;
 }
 
+.panel-paper {
+    border-color: black;
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+.panel-paper > .panel-paper-body {
+    background-color: darkgrey;
+    color: black;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    font-size: 14px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.panel-paper > .panel-paper-footer {
+    background-color: white;
+    color: black;
+    font-size: 12px;
+}
+
+.paper-title {
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
+
+.table > tbody > tr > td.slot {
+    text-align: left;
+    padding-left: 30px;
+}
+
+td.talk {
+    font-weight: bold;
+}
+
+td.break {
+    font-style: italic;
+}
+
+div.talk-abstract {
+    background-color: darkgrey;
+    color: black;
+    font-size: 14px;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.table > tbody > tr > td.time {
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+table.schedule {
+    font-size: 18px;
+}
+
+
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
