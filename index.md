@@ -46,7 +46,7 @@
 </tr>
 <tr>
 <td>8.30</td>
-<td><a href="#tabs1" data-toggle="collapse">Pınar Yolum &mdash; Semantic Approaches for Collaborative Privacy Management in Online Social Networks</a></td>
+<td><a href="#tabs1" data-toggle="collapse" class="accordion-toggle">Pınar Yolum &mdash; Semantic Approaches for Collaborative Privacy Management in Online Social Networks</a></td>
 </tr>
 <tr>
     <td colspan="2" class="hiddenRow">
@@ -84,7 +84,7 @@
 </tr>
 <tr>
 <td>14.00</td>
-<td><a href="#tabs5" data-toggle="collapse">Catuscia Palamidessi &mdash; Local Differential Privacy on Metric Spaces: optimizing the trade-off with utility.</a></td>
+<td><a href="#tabs5" data-toggle="collapse" class="accordion-toggle">Catuscia Palamidessi &mdash; Local Differential Privacy on Metric Spaces: optimizing the trade-off with utility.</a></td>
 </tr>
 <tr>
     <td colspan="2" class="hiddenRow">
