@@ -2,6 +2,8 @@
 <nav></nav>
 <div>
 <div><a href="#page-top"> PiMLAI'18 </a></div>
+<!-- Bootstrap Core CSS -->
+<link href="_sass/bootstrap.min.css" rel="stylesheet">
 <div>
 <ul>
 <li><a href="#about">Scope</a></li>
