@@ -30,8 +30,18 @@
 <h2>Invited Speakers</h2>
 <ul>
 <li>Catuscia Palamidessi (INRIA)</li>
+<td><a href="#tabs5" data-toggle="collapse" class="accordion-toggle">Local Differential Privacy on Metric Spaces: optimizing the trade-off with utility.</a></td>
+    <td colspan="2" class="hiddenRow">
+        <div class="accordion-body collapse talk-abstract" id="tabs5">Local differential privacy (LPD) is a distributed variant of differential privacy (DP) in which the obfuscation of the sensitive information is done at the level of the individual records, and in general it  is used to sanitize data that are collected for statistical purposes. LPD has the same properties of compositionality and independence from the prior as DP, and it has the further advantages that (a) each user can choose the level of privacy he wishes, (b) it does not need to assume a trusted third party, and (c) since all stored  records are individually-sanitized,   there is no risk of privacy leaks due to security breaches. On the other hand LDP in general requires more noise than DP to achieve the same level of protection, with negative consequences on the utility. In practice, utility becomes acceptable only on very large collections of data, and this is the reason why LDP is especially successful among big companies such as Google and Apple, which can count on a collecting data from a huge number of users. <br>
+        In this talk, we propose a variant of LDP suitable for metric spaces, such as location data or energy consumption data, and we show that it provides a much higher utility for the same level of privacy. Furthermore, we discuss algorithms to extract the best possible statistical information from the data obfuscated with this metric variant of LDP. </div>
+    </td>
 <li>&Uacute;lfar Erlingsson (Google)</li>
 <li>Pınar Yolum (Utrecht)</li>
+<td><a href="#tabs1" data-toggle="collapse" class="accordion-toggle">Semantic Approaches for Collaborative Privacy Management in Online Social Networks</a></td>
+    <td colspan="2" class="hiddenRow">
+        <div class="accordion-body collapse talk-abstract" id="tabs1">Privacy is a major concern in online social networks. Online social networks allow users to specify privacy concerns to some extent, but enforcing them over distributed content is difficult.  The main reason for this is that the users are allowed to create and share content about themselves as well as about others. When multiple entities start distributing content without a control, information can reach unintended individuals.  Since privacy constraints of these users may be different from each other, privacy disputes occur. Ideally, all relevant users of a content must be able to engage in a discussion of their privacy constraints so that they can agree on whether to share the content and if so with whom. <br>
+        This talk will discuss our recent work on collaborative privacy management to resolve disputes among users in online social networks, with a focus on argumentation and negotiation.  Our work is based on representing each user in an online social network with an agent that is responsible for managing and enforcing its user's privacy constraints.  When an agent wants to share a post, an agreement session starts between the agent and other relevant agents. The agents provide each other arguments to express their privacy stance and try to convince each other that their claim is true. At the end of the session, the system decides whether sharing the post is justified according to the provided arguments of the agents.</div>
+    </td>
 </ul>
 </div>
 </div>
@@ -48,13 +58,9 @@
 </tr>
 <tr>
 <td>8.30</td>
-<td><a href="#tabs1" data-toggle="collapse" class="accordion-toggle">Pınar Yolum &mdash; Semantic Approaches for Collaborative Privacy Management in Online Social Networks</a></td>
+<td><a href="#tabs1" data-toggle="collapse" class="accordion-toggle">Invited Talk: Pınar Yolum </a></td>
 </tr>
 <tr>
-    <td colspan="2" class="hiddenRow">
-        <div class="accordion-body collapse talk-abstract" id="tabs1">Privacy is a major concern in online social networks. Online social networks allow users to specify privacy concerns to some extent, but enforcing them over distributed content is difficult.  The main reason for this is that the users are allowed to create and share content about themselves as well as about others. When multiple entities start distributing content without a control, information can reach unintended individuals.  Since privacy constraints of these users may be different from each other, privacy disputes occur. Ideally, all relevant users of a content must be able to engage in a discussion of their privacy constraints so that they can agree on whether to share the content and if so with whom. <br>
-        This talk will discuss our recent work on collaborative privacy management to resolve disputes among users in online social networks, with a focus on argumentation and negotiation.  Our work is based on representing each user in an online social network with an agent that is responsible for managing and enforcing its user's privacy constraints.  When an agent wants to share a post, an agreement session starts between the agent and other relevant agents. The agents provide each other arguments to express their privacy stance and try to convince each other that their claim is true. At the end of the session, the system decides whether sharing the post is justified according to the provided arguments of the agents.</div>
-    </td>
 </tr>
 <tr>
 <td>09.20</td>
@@ -86,13 +92,9 @@
 </tr>
 <tr>
 <td>14.00</td>
-<td><a href="#tabs5" data-toggle="collapse" class="accordion-toggle">Catuscia Palamidessi &mdash; Local Differential Privacy on Metric Spaces: optimizing the trade-off with utility.</a></td>
+<td><a href="#tabs5" data-toggle="collapse" class="accordion-toggle">Invited Talk: Catuscia Palamidessi </a></td>
 </tr>
 <tr>
-    <td colspan="2" class="hiddenRow">
-        <div class="accordion-body collapse talk-abstract" id="tabs5">Local differential privacy (LPD) is a distributed variant of differential privacy (DP) in which the obfuscation of the sensitive information is done at the level of the individual records, and in general it  is used to sanitize data that are collected for statistical purposes. LPD has the same properties of compositionality and independence from the prior as DP, and it has the further advantages that (a) each user can choose the level of privacy he wishes, (b) it does not need to assume a trusted third party, and (c) since all stored  records are individually-sanitized,   there is no risk of privacy leaks due to security breaches. On the other hand LDP in general requires more noise than DP to achieve the same level of protection, with negative consequences on the utility. In practice, utility becomes acceptable only on very large collections of data, and this is the reason why LDP is especially successful among big companies such as Google and Apple, which can count on a collecting data from a huge number of users. <br>
-        In this talk, we propose a variant of LDP suitable for metric spaces, such as location data or energy consumption data, and we show that it provides a much higher utility for the same level of privacy. Furthermore, we discuss algorithms to extract the best possible statistical information from the data obfuscated with this metric variant of LDP. </div>
-    </td>
 </tr>
 <tr>
 <td>14.50</td>
