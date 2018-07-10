@@ -29,7 +29,6 @@
 <ul>
 <li>Catuscia Palamidessi (INRIA)</li>
 <li>&Uacute;lfar Erlingsson (Google)</li>
-<li>Catuscia Palamidessi (INRIA)</li>
 <li>Pınar Yolum (Utrecht)</li>
 </ul>
 </div>
@@ -47,7 +46,12 @@
 </tr>
 <tr>
 <td>8.30</td>
-<td><a href="#tabs1" data-toggle="collapse">Invited talk: Pınar Yolum</a></td>
+<td><a href="#tabs1" data-toggle="collapse">Pınar Yolum &mdash; Semantic Approaches for Collaborative Privacy Management in Online Social Networks</a></td>
+</tr>
+<tr>
+    <td colspan="2" class="hiddenRow">
+        <div class="accordion-body collapse talk-abstract" id="tabs1">Privacy is a major concern in online social networks. Online social networks allow users to specify privacy concerns to some extent, but enforcing them over distributed content is difficult.  The main reason for this is that the users are allowed to create and share content about themselves as well as about others. When multiple entities start distributing content without a control, information can reach unintended individuals.  Since privacy constraints of these users may be different from each other, privacy disputes occur. Ideally, all relevant users of a content must be able to engage in a discussion of their privacy constraints so that they can agree on whether to share the content and if so with whom.</div>
+    </td>
 </tr>
 <tr>
 <td>09.20</td>
