@@ -36,6 +36,10 @@
         In this talk, we propose a variant of LDP suitable for metric spaces, such as location data or energy consumption data, and we show that it provides a much higher utility for the same level of privacy. Furthermore, we discuss algorithms to extract the best possible statistical information from the data obfuscated with this metric variant of LDP. </div>
     </td>
 <li>&Uacute;lfar Erlingsson (Google)</li>
+<td><a href="#tabs7" data-toggle="collapse" class="accordion-toggle">Machine Learning Privacy Problems and Practice.</a></td>
+    <td colspan="2" class="hiddenRow">
+        <div class="accordion-body collapse talk-abstract" id="tabs5">For the last several years, Google has been leading the development and real-world deployment of state-of-the-art, practical techniques for learning statistics and ML models with strong privacy guarantees for the data involved.  I'll introduce this work, and the RAPPOR and Prochlo mechanisms for learning statistics in the Chromium and Fuschia open-source projects.  Then I'll present a new "exposure" metric to estimate the privacy problems due to unintended memorization in machine learning models—and how it can allow extracting individual secrets, such as social security numbers. Finally, I'll give an overview of the practical techniques we've developed for training Deep Neural Networks with strong  privacy guarantees, based on Differentially-Private Stochastic Gradient Descent and Private Aggregation of Teacher Ensembles. </div>
+    </td>
 <li>Pınar Yolum (Utrecht)</li>
 <td><a href="#tabs1" data-toggle="collapse" class="accordion-toggle">Semantic Approaches for Collaborative Privacy Management in Online Social Networks</a></td>
     <td colspan="2" class="hiddenRow">
