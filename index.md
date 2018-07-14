@@ -62,7 +62,7 @@
 </tr>
 <tr>
 <td>8.30</td>
-<td><a href="#tabs1" data-toggle="collapse" class="accordion-toggle">Invited Talk: Pınar Yolum </a></td>
+<td><a href="#tabs1" data-toggle="collapse" class="accordion-toggle">Invited Talk: Pınar Yolum. "Semantic Approaches for Collaborative Privacy Management in Online Social Networks"</a></td>
 </tr>
 <tr>
 </tr>
@@ -96,7 +96,7 @@
 </tr>
 <tr>
 <td>14.00</td>
-<td><a href="#tabs5" data-toggle="collapse" class="accordion-toggle">Invited Talk: Catuscia Palamidessi </a></td>
+<td><a href="#tabs5" data-toggle="collapse" class="accordion-toggle">Invited Talk: Catuscia Palamidessi. "Local Differential Privacy on Metric Spaces: Optimizing the Trade-off with Utility" </a></td>
 </tr>
 <tr>
 </tr>
@@ -114,7 +114,7 @@
 </tr>
 <tr>
 <td>16.00</td>
-<td><a href="#tabs8" data-toggle="collapse">Invited Talk: &Uacute;lfar Erlingsson</a></td>
+<td><a href="#tabs8" data-toggle="collapse">Invited Talk: &Uacute;lfar Erlingsson. "Machine Learning Privacy Problems and Practice"</a></td>
 </tr>
 <tr>
 <td>16.50</td>
